@@ -1,3 +1,5 @@
 ## Radu Stefania-Florentina
 she/her, 18yo;
-networking, embedded systems, c, rust, python;
+network engineering, embedded systems design & programming;
+c++, c, rust and python programming;
+linux enjoyer;
