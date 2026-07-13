@@ -1,4 +1,4 @@
-## Radu Stefania-Florentina
+## Stefania
 *also stephfrd on a lot of social media pages*
 
 she/her
